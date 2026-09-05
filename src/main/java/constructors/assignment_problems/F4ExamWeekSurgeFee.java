@@ -1,9 +1,9 @@
-package oop.assignment_problems;
+package constructors.assignment_problems;
 
-public final class F4LibraryMemberBoundary {
+public final class F4ExamWeekSurgeFee {
     private final SurgeFeeCalculator calculator;
 
-    public F4LibraryMemberBoundary(double minimumSurgePercent) {
+    public F4ExamWeekSurgeFeele minimumSurgePercent) {
         calculator = new SurgeFeeCalculator(minimumSurgePercent);
     }
 
